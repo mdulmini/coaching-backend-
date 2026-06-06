@@ -7,7 +7,7 @@ A private coaching application REST API built with Spring Boot and JWT Authentic
 - Frontend: https://github.com/mdulmini/coaching-frontend
 
 ## Tech Stack
-- Java 17
+- Java 21
 - Spring Boot 3.5
 - Spring Security
 - JWT Authentication
@@ -77,7 +77,7 @@ Response:
 ## Setup Instructions
 
 ### Prerequisites
-- Java 17
+- Java 21
 - Maven
 
 ### Installation
